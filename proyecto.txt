@@ -1,4 +1,3 @@
 Hola mundo!
-Este es un archivo para crear un repositorio de git
 
-Creando una nueva línea!
+Creando una nueva línea!a
