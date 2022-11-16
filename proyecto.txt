@@ -1,2 +1,4 @@
 Hola mundo!
-Este es un archivo para crear un repositorio de git!
+Este es un archivo para crear un repositorio de git
+
+Creando una nueva línea!
